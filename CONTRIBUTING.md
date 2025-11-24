@@ -103,7 +103,7 @@ FormsFX/
 
 ### Building Documentation
 
-Generate JavaDoc documentation:
+Generate Javadoc documentation:
 ```bash
 ./mvnw javadoc:javadoc
 ```
