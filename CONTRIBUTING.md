@@ -158,7 +158,7 @@ If the Maven wrapper (`mvnw`) doesn't work:
 
 - **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/dlsc-software-consulting-gmbh/FormsFX/issues)
 - **Discussions**: Ask questions or discuss ideas
-- **Documentation**: Refer to the [README.md](README.md) and [JavaDocs](http://dlsc.com/wp-content/html/formsfx/apidocs/)
+- **Documentation**: Refer to the [README.md](README.md) and [Javadoc](http://dlsc.com/wp-content/html/formsfx/apidocs/)
 
 ### License
 
