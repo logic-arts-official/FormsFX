@@ -94,7 +94,7 @@ FormsFX/
   - Use 4 spaces for indentation
   - Keep lines under 120 characters when possible
   - Use meaningful variable and method names
-  - Add JavaDoc comments for public APIs
+  - Add Javadoc comments for public APIs
 
 - **Commit Messages**: Write clear, descriptive commit messages
   - Use present tense ("Add feature" not "Added feature")
