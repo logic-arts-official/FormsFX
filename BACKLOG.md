@@ -37,7 +37,7 @@ This document outlines the strengths and weaknesses of FormsFX, along with plann
 
 ### Technical Debt
 - **Java 17 Requirement**: Recently updated from Java 11, may limit adoption in legacy environments
-- **JavaDoc Warnings**: Some JavaDoc comments are incomplete or have formatting issues
+- **Javadoc Warnings**: Some Javadoc comments are incomplete or have formatting issues
 - **Test Coverage**: Some components have skipped tests or incomplete coverage
 - **Parent POM Dependency**: Relies on external parent POM which may complicate builds
 
