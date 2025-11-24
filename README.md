@@ -16,16 +16,46 @@
 [ ![Download](https://api.bintray.com/packages/dlsc-oss/repository/FormsFX/images/download.svg) ](https://bintray.com/dlsc-oss/repository/FormsFX/_latestVersion)
 [![Build Status](https://travis-ci.org/dlemmermann/formsfx.svg?branch=master)](https://travis-ci.org/dlemmermann/formsfx)
 
-## Maven
+## Quick Start
+
+### Requirements
+
+- **Java 17 or later**
+- **JavaFX 22.0.2 or later** (automatically included via Maven dependency)
+
+### Maven
 
 To use this framework as part of your Maven build simply add the following dependency to your pom.xml file.
 
-```XML
+```xml
 <dependency>
   <groupId>com.dlsc.formsfx</groupId>
   <artifactId>formsfx-core</artifactId>
-  <version>11.3.2</version>
+  <version>11.6.0</version>
 </dependency>
+```
+
+### Gradle
+
+For Gradle projects, add this to your `build.gradle`:
+
+```gradle
+dependencies {
+    implementation 'com.dlsc.formsfx:formsfx-core:11.6.0'
+}
+```
+
+### Developer Quick Setup
+
+Want to contribute or run the demos? See [CONTRIBUTING.md](CONTRIBUTING.md) for a complete developer setup guide.
+
+**Quick commands:**
+```bash
+git clone https://github.com/dlsc-software-consulting-gmbh/FormsFX.git
+cd FormsFX
+./mvnw clean install
+cd formsfx-demo
+../mvnw javafx:run
 ```
 
 ## What is FormsFX?
@@ -290,4 +320,52 @@ All fields are validated whenever end users edit the contained data. FormsFX off
 # Documentation
 
 - [Javadocs](http://dlsc.com/wp-content/html/formsfx/apidocs/)
-- [Report](./docs/Project%20Report.pdf)
+- [Contributing Guidelines](CONTRIBUTING.md) - How to set up your development environment and contribute
+- [Backlog & Roadmap](BACKLOG.md) - Pros, cons, and future improvements
+- [Project Report](./docs/Project%20Report.pdf)
+
+## Community & Support
+
+- **GitHub Issues**: [Report bugs or request features](https://github.com/dlsc-software-consulting-gmbh/FormsFX/issues)
+- **JFXCentral**: [Find more JavaFX libraries](https://www.jfx-central.com/libraries/formsfx)
+- **Demo Application**: Explore the `formsfx-demo` module for comprehensive examples
+
+## Why FormsFX?
+
+### Advantages
+
+- **Less error-prone**: Type-safe API prevents common mistakes
+- **Less code needed**: Fluent API reduces boilerplate by up to 70%
+- **Easy to learn**: Intuitive syntax that feels natural
+- **Easy to understand**: Clear semantic structure
+- **Easy to extend**: Custom controls and validators are straightforward
+- **Production-ready**: Used in business applications worldwide
+- **Active maintenance**: Regular updates and security patches
+
+### Key Features at a Glance
+
+| Feature | Description |
+|---------|-------------|
+| **Form Types** | String, Integer, Double, Boolean, Date, Single/Multi-Selection |
+| **Validation** | Pre-built validators + custom validation support |
+| **Localization** | Full i18n support via ResourceBundle |
+| **Data Binding** | Automatic property binding with persist/reset |
+| **Responsive** | 12-column grid layout system |
+| **Styling** | CSS customization support |
+| **Java Version** | Java 17+ |
+| **JavaFX Version** | JavaFX 22.0.2+ |
+
+## Version History
+
+See [CHANGELOG.md](CHANGELOG.md) for release notes and version history.
+
+**Current Version: 11.6.0**
+- Updated to Java 17
+- Updated to JavaFX 22.0.2
+- Updated to JUnit 4.13.2 (security fix)
+- Updated Maven plugins to latest stable versions
+- Improved build tooling and enforcer rules
+
+## License
+
+FormsFX is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
