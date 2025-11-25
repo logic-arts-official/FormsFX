@@ -1,7 +1,5 @@
 [![JFXCentral](https://img.shields.io/badge/Find_me_on-JFXCentral-blue?logo=googlechrome&logoColor=white)](https://www.jfx-central.com/libraries/formsfx)
 
-
-
 # FormsFX
 **Forms for business application made easy. Creating forms in Java has never been this easy!**
 
