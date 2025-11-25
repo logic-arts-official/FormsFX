@@ -123,7 +123,7 @@ This document outlines the strengths and weaknesses of FormsFX, along with plann
 
 Have ideas for improvements? We welcome contributions!
 
-1. Check existing [GitHub Issues](https://github.com/dlsc-software-consulting-gmbh/FormsFX/issues)
+1. Check existing [GitHub Issues](https://github.com/logic-arts-official/FormsFX/issues)
 2. Create a new issue describing your idea
 3. Discuss with maintainers before starting major work
 4. Submit a Pull Request following our [Contributing Guidelines](CONTRIBUTING.md)

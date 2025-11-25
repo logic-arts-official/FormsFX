@@ -14,7 +14,7 @@ Thank you for your interest in contributing to FormsFX! This guide will help you
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/dlsc-software-consulting-gmbh/FormsFX.git
+   git clone https://github.com/logic-arts-official/FormsFX.git
    cd FormsFX
    ```
 
@@ -156,7 +156,7 @@ If the Maven wrapper (`mvnw`) doesn't work:
 
 ### Getting Help
 
-- **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/dlsc-software-consulting-gmbh/FormsFX/issues)
+- **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/logic-arts-official/FormsFX/issues)
 - **Discussions**: Ask questions or discuss ideas
 - **Documentation**: Refer to the [README.md](README.md) and [Javadoc](http://dlsc.com/wp-content/html/formsfx/apidocs/)
 
