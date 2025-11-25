@@ -1,15 +1,5 @@
 [![JFXCentral](https://img.shields.io/badge/Find_me_on-JFXCentral-blue?logo=googlechrome&logoColor=white)](https://www.jfx-central.com/libraries/formsfx)
 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=dlsc-software-consulting-gmbh_FormsFX&metric=bugs)](https://sonarcloud.io/dashboard?id=dlsc-software-consulting-gmbh_afterburner.fx)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=dlsc-software-consulting-gmbh_FormsFX&metric=code_smells)](https://sonarcloud.io/dashboard?id=dlsc-software-consulting-gmbh_afterburner.fx)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=dlsc-software-consulting-gmbh_FormsFX&metric=ncloc)](https://sonarcloud.io/dashboard?id=dlsc-software-consulting-gmbh_afterburner.fx)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=dlsc-software-consulting-gmbh_FormsFX&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=dlsc-software-consulting-gmbh_afterburner.fx)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dlsc-software-consulting-gmbh_FormsFX&metric=alert_status)](https://sonarcloud.io/dashboard?id=dlsc-software-consulting-gmbh_afterburner.fx)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=dlsc-software-consulting-gmbh_FormsFX&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=dlsc-software-consulting-gmbh_afterburner.fx)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=dlsc-software-consulting-gmbh_FormsFX&metric=security_rating)](https://sonarcloud.io/dashboard?id=dlsc-software-consulting-gmbh_afterburner.fx)
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=dlsc-software-consulting-gmbh_FormsFX&metric=sqale_index)](https://sonarcloud.io/dashboard?id=dlsc-software-consulting-gmbh_afterburner.fx)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=dlsc-software-consulting-gmbh_FormsFX&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=dlsc-software-consulting-gmbh_afterburner.fx)
-
 # FormsFX
 **Forms for business application made easy. Creating forms in Java has never been this easy!**
 
@@ -51,7 +41,7 @@ Want to contribute or run the demos? See [CONTRIBUTING.md](CONTRIBUTING.md) for 
 
 **Quick commands:**
 ```bash
-git clone https://github.com/dlsc-software-consulting-gmbh/FormsFX.git
+git clone https://github.com/logic-arts-official/FormsFX.git
 cd FormsFX
 ./mvnw clean install
 cd formsfx-demo
@@ -326,7 +316,7 @@ All fields are validated whenever end users edit the contained data. FormsFX off
 
 ## Community & Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/dlsc-software-consulting-gmbh/FormsFX/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/logic-arts-official/FormsFX/issues)
 - **JFXCentral**: [Find more JavaFX libraries](https://www.jfx-central.com/libraries/formsfx)
 - **Demo Application**: Explore the `formsfx-demo` module for comprehensive examples
 
